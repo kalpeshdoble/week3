@@ -59,7 +59,7 @@ public class PerformanceComparison {
 
             String line;
             while ((line = br.readLine()) != null) {
-                wordCount += line.split("\\s+").length; // Split by spaces/tabs/newlines
+                wordCount += line.split("\\s+").length; 
             }
 
         } catch (IOException e) {
