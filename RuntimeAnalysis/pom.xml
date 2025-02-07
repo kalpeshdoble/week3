@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>DAY04</artifactId>
+    <artifactId>RuntimeAnalysis</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -13,15 +13,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>5.12.0-M1</version>
-            <scope>test</scope>
-        </dependency>
-
-    </dependencies>
 
 </project>
